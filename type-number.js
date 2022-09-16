@@ -18,8 +18,8 @@ console.log(operacaoMatematica4)
 
 // // ponto flutuante
 
-// const numeroPontoFlutuante = 3.3;
-// const numeroFlutuanteSemZero = .5;
+ const numeroPontoFlutuante = 3.3;
+ const numeroFlutuanteSemZero = .5;
 
 // const novaOperacao = primeiroNumero / numeroPontoFlutuante;
 
@@ -36,7 +36,7 @@ const texto2 = 'Olá Mundo!';
 const senha = "senhaSuperSegura123!";
 const StringDeNumeros = "123456";
 
-const citacao = "Hélio V";
+const citacao = "HélioV";
 const meuNome = "Victor";
 const convertMinusculo = meuNome.toLowerCase();
 
